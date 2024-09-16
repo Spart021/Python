@@ -20,7 +20,7 @@
 
 # solution 2
 # rows_count = int(input("Enter rows count: "))
-#
+
 # for row in range(1, rows_count + 1):
 #     for col in range(row):
 #         print(row, end="\t")
