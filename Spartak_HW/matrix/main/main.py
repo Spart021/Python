@@ -1,1 +1,0 @@
-print("barev Sergo jan ")

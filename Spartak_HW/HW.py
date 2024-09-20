@@ -1,6 +1,6 @@
-bar = 'Barev Bolorin'
-bar = bar.split()
+# bar = 'Barev Bolorin'
+# bar = bar.split()
 
-bar.reverse()
-bar = '-'.join(bar)
-print(bar)
+# bar.reverse()
+# bar = '-'.join(bar)
+# print(bar)
