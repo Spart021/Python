@@ -23,15 +23,15 @@
 # print(f"{im_shun.anun}i martkain tariqy {im_shun.mardkain_tariq()}e")
 
 
-class Avto:
-    def __init__(self, maknish, guyn, aragutyun):
-        self.maknish = maknish
-        self.guyn = guyn
-        self.aragutyun = aragutyun
+# class Avto:
+#     def __init__(self, maknish, guyn, aragutyun):
+#         self.maknish = maknish
+#         self.guyn = guyn
+#         self.aragutyun = aragutyun
 
-    def tras(self):
-        return f"{self.guyn} guyn i  {self.maknish} en sksec sharjvel {self.aragutyun} aragutyamb"
+#     def tras(self):
+#         return f"{self.guyn} guyn i  {self.maknish} en sksec sharjvel {self.aragutyun} aragutyamb"
     
-lav_avto = Avto('BMW','Sev',40)
+# lav_avto = Avto('BMW','Sev',40)
 
-print(lav_avto.tras())
+# print(lav_avto.tras())
